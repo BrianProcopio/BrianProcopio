@@ -1,6 +1,6 @@
 # About me
 
-With nearly two decades of immersion in the dynamic realm of full-stack development, I have honed a robust expertise in designing and architecting innovative web applications tailored to the intricate needs of corporate environments. As a Vice President of Software Development, my career has been marked by a steadfast commitment to excellence, leadership, and the relentless pursuit of technological innovation to drive business success.
+With nearly two decades of immersion in the dynamic realm of full-stack development, I have honed a robust expertise in designing and architecting innovative web applications tailored to the intricate needs of corporate environments. As the Executive Vice President of Software Development, my career has been marked by a steadfast commitment to excellence, leadership, and the relentless pursuit of technological innovation to drive business success.
 
 Over the past 25 years, my role at Somerset Capital Group, Ltd. has evolved significantly, leading me to the forefront of technology leadership where I now spearhead a talented team of developers. Under my guidance, my team and I have achieved remarkable success in developing a comprehensive suite of web applications that have fundamentally transformed the operations of the company.
 
